@@ -1,1 +1,1 @@
-This is my sample project in pyramid framework
+This is my first sample project in pyramid framework
