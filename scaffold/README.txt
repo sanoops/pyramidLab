@@ -1,1 +1,1 @@
-scaffold README
+This is my sample project in pyramid framework
